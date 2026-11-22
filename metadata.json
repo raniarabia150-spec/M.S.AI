@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية الكيمياء",
+  "description": "أكاديمية الكيمياء التفاعلية — إعداد مستر صلاح عيد • تصميم محمد صلاح",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
